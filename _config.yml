@@ -1,7 +1,7 @@
 # Site settings
 title: "Bo Meyering's Page"
 email: "bomeyering@mailbox.org"
-description: > "A one pager to hold my CV and portfolio" # this means to ignore newlines until "baseurl:"
+description: "A one pager to hold my CV and portfolio" # this means to ignore newlines until "baseurl:"
 baseurl: "/root" # the subpath of your site, e.g. /blog/
 url: "https://wwww.bomeyering.me" # the base hostname & protocol for your site
 
