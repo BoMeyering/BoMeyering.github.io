@@ -5,7 +5,7 @@ description: "A one pager to hold my CV and portfolio" # this means to ignore ne
 baseurl: "/root" # the subpath of your site, e.g. /blog/
 url: "https://wwww.bomeyering.me" # the base hostname & protocol for your site
 
-twitter_username:
+linkedin_username: bo-meyering-37955b139
 github_username: BoMeyering
 
 # Build settings
