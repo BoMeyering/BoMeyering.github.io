@@ -147,14 +147,14 @@ aside {
     }
 }
 
-/* Style the video: 100% width and height to cover the entire window */
-#myVideo {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
-  }
+// /* Style the video: 100% width and height to cover the entire window */
+// #myVideo {
+//     position: fixed;
+//     right: 0;
+//     bottom: 0;
+//     min-width: 100%;
+//     min-height: 100%;
+//   }
 
 // Homepage Header
 
@@ -164,7 +164,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/header2.jpg');
     text-align: center;
     color: white;
     .header-content {
