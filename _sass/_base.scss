@@ -165,7 +165,7 @@ header {
     @include background-cover;
     background-position: center;
     background-image: url('../img/header2.jpg');
-    filter: brightness(50%);
+    opacity: 0.5;
     text-align: center;
     color: white;
     .header-content {
