@@ -1,14 +1,30 @@
-# Creative Theme for Jekyll
+# bomeyering.me
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
+Personal portfolio site for Bo Meyering, built with Jekyll and hosted on GitHub Pages
+(custom domain via `CNAME`). Based on the Start Bootstrap Creative theme.
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+## Run locally
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
+Requires Ruby and Bundler.
 
-## To use the Creative Theme template in your project
+```bash
+bundle config set --local path vendor/bundle
+bundle install
+bundle exec jekyll serve --livereload
+```
 
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
+Then open http://localhost:4000.
 
+## Editing content
+
+- **Experience:** `_data/experience.yml`
+- **Published datasets:** `_data/datasets.yml`
+- **Portfolio projects:** `_includes/portfolio.html` (tiles are 650x350 images in `img/portfolio/`)
+- **Skills:** `_includes/skillset.html`
+- **About / header text:** `_includes/summary.html`, `_includes/header.html`
+- **Section order:** `_layouts/front.html`
+- **Site title, email, social usernames:** `_config.yml`
+
+## Deploying
+
+Work on `dev`, then merge into `main` and push. GitHub Pages rebuilds the site from `main`.
