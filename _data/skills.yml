@@ -1,0 +1,80 @@
+# Each entry renders as one card in the Skillset section (4 per row on desktop).
+- name: Python
+  url: https://www.python.org/
+  logo: img/python.png
+  blurb: My primary language for computer vision, data pipelines, and backend services
+
+- name: PyTorch
+  url: https://pytorch.org/
+  logo: img/pytorch.png
+  blurb: Detection and segmentation models, from semi-supervised training to production
+
+- name: PyTorch Lightning
+  url: https://lightning.ai/docs/pytorch/stable/
+  logo: img/lightning_logo.png
+  blurb: Fast, reproducible experimentation and multi-GPU training
+
+- name: OpenCV
+  url: https://opencv.org/
+  logo: img/opencv.png
+  blurb: Image preprocessing, classical vision, and measurement pipelines
+
+- name: Scikit-learn
+  url: https://scikit-learn.org/stable/
+  logo: img/sklearn.png
+  blurb: Classical ML, clustering, and dimensionality reduction
+
+- name: R
+  url: https://www.r-project.org/
+  logo: img/R.png
+  blurb: Mixed effects models, meta-analysis, and experimental design
+
+- name: Tidyverse
+  url: https://www.tidyverse.org/
+  logo: img/tidyverse.png
+  blurb: Data wrangling and publication-quality visualization with ggplot2
+
+- name: PostgreSQL
+  url: https://www.postgresql.org/
+  logo: img/postgresql.png
+  blurb: Designing and running research databases behind deployed apps
+
+- name: Django
+  url: https://www.djangoproject.com/
+  logo: img/django_logo.png
+  blurb: Full-stack web applications for image upload, inference, and results
+
+- name: Django REST Framework
+  url: https://www.django-rest-framework.org/
+  logo: img/drf_logo.png
+  blurb: REST APIs for model inference and database access
+
+- name: FastAPI
+  url: https://fastapi.tiangolo.com/
+  logo: img/fastapi_logo.png
+  blurb: Lightweight, high-performance model serving endpoints
+
+- name: Docker
+  url: https://www.docker.com/
+  logo: img/docker_logo.png
+  blurb: Containerized training and inference environments
+
+- name: AWS
+  url: https://aws.amazon.com/
+  logo: img/aws_logo.png
+  blurb: S3, EC2, and SageMaker for storage, compute, and deployment
+
+- name: DigitalOcean
+  url: https://www.digitalocean.com/
+  logo: img/digitalocean_logo.png
+  blurb: Hosting web apps and serverless inference endpoints
+
+- name: RunPod
+  url: https://www.runpod.io/
+  logo: img/runpod_logo.png
+  blurb: Serverless GPU inference and on-demand training compute
+
+- name: Git & GitHub
+  url: https://github.com/
+  logo: img/git_logo.png
+  blurb: Version control, code review, and open-source collaboration
