@@ -1,0 +1,64 @@
+# Newest first. Each entry renders as one card in the Experience section.
+- title: Director of Computer Vision
+  org: InFlightAI
+  location: Palm Beach Gardens, FL
+  dates: Sep 2026 – Present
+  summary: >-
+    Lead end-to-end development and deployment of computer vision models, from research through
+    production, and set the technical vision and strategy for computer vision initiatives. Lead and
+    mentor the Computer Vision Engineering team and interns, building scalable engineering practices
+    and turning computer vision capabilities into products.
+
+- title: Computer Vision Engineer
+  org: InFlightAI
+  location: West Palm Beach, FL (Remote)
+  dates: Apr 2026 – Sep 2026
+  summary: >-
+    Built and trained computer vision models for industrial inspection, from data and research
+    through production deployment.
+
+- title: Founder & Owner
+  org: Oxbow Solutions LLC
+  location: Florida (Remote)
+  dates: Mar 2026 – Present
+  summary: >-
+    Help agricultural research labs use data science and computer vision to accelerate discovery and
+    reduce manual labor, designing and deploying machine learning solutions that turn large-scale
+    field and imaging data into actionable insights.
+
+- title: Applications Developer
+  org: The Land Institute
+  location: Salina, KS
+  dates: May 2022 – Apr 2026
+  summary: >-
+    Lead applications developer in the perennial legumes program. Led all deep learning plant
+    phenotyping work (object detection, semantic segmentation, semi-supervised learning) and built
+    serverless inference endpoints on AWS, DigitalOcean, and RunPod, along with full-stack web apps and
+    REST APIs for model inference. Published open datasets, drove crop ontology and FAIR data
+    practices, and mentored interns and annotation teams.
+
+- title: Biological Scientist III
+  org: University of Florida
+  location: SWFREC, Immokalee, FL
+  dates: Apr 2016 – May 2022
+  summary: >-
+    Managed a citrus plant physiology lab focused on rootstock research, root system architecture, and
+    horticultural performance. Coordinated multi-year field, greenhouse, and lab studies, ran
+    statistical modeling and image analysis in R and Python, managed grant-funded accounts, and
+    supervised and trained staff and graduate students.
+
+- title: Biological Science Technician
+  org: USDA-ARS
+  location: Fort Pierce, FL
+  dates: Jul 2015 – Mar 2016
+  summary: >-
+    Evaluated disarmed citrus tristeza virus vectors in citrus trees, running qPCR gene expression
+    assays, HPLC organic acid analysis, and greenhouse research.
+
+- title: Biological Science Technician / Aid
+  org: USDA-ARS
+  location: Fort Pierce, FL
+  dates: 2008 – 2013
+  summary: >-
+    Tomato grafting field trials across ~150 Solanaceae rootstocks, qPCR and marker work on citrus,
+    and curation of a 400+ genotype citrus variety collection.

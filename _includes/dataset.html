@@ -1,36 +1,23 @@
 <section class="no-padding" id="dataset">
     <div class="container-fluid">
         <div class="row no-gutter">
-            <div class="col-lg-6 col-sm-6">
-                <a href="https://doi.org/10.5281/zenodo.10009966" class="portfolio-box">
-                    <img src="img/portfolio/sainfoin_seeds.jpg" class="img-responsive" alt="">
+            {% for ds in site.data.datasets %}
+            <div class="col-lg-4 col-sm-6">
+                <a href="{{ ds.url }}" target="_blank" rel="noopener" class="portfolio-box">
+                    <img src="{{ ds.image }}" class="img-responsive" alt="{{ ds.name }}">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
-                                Object Detection Dataset
+                                {{ ds.category }}
                             </div>
                             <div class="project-name">
-                                Dehulled Sainfoin Seeds
+                                {{ ds.name }}
                             </div>
                         </div>
                     </div>
                 </a>
             </div>
-            <div class="col-lg-6 col-sm-6">
-                <a href="https://doi.org/10.5281/zenodo.10439866" class="portfolio-box">
-                    <img src="img/portfolio/citrus_roots.jpg" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption">
-                        <div class="portfolio-box-caption-content">
-                            <div class="project-category text-faded">
-                                Image Dataset
-                            </div>
-                            <div class="project-name">
-                                Citrus Tree Root Systems
-                            </div>
-                        </div>
-                    </div>
-                </a>
-            </div>
+            {% endfor %}
         </div>
     </div>
 </section>
