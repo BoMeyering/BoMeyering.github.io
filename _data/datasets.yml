@@ -1,0 +1,25 @@
+# Each entry renders as one tile in the Published Datasets section.
+- name: Sainfoin Seed Detection Dataset
+  category: Hugging Face · Object Detection Dataset
+  url: https://huggingface.co/datasets/tli-legumes/sainfoin-seed-dataset
+  image: img/portfolio/sainfoin_seed_hf.jpg
+
+- name: K1702 Kura Clover USDA Accession Images
+  category: Zenodo · Image Dataset
+  url: https://doi.org/10.5281/zenodo.16412834
+  image: img/portfolio/kura1.jpg
+
+- name: "Firmly Rooted: Valencia Orange Root System Images"
+  category: Zenodo · Image Dataset
+  url: https://doi.org/10.5281/zenodo.10439866
+  image: img/portfolio/citrus_roots_thumb.jpg
+
+- name: Sainfoin Fruit Processing
+  category: Zenodo · Object Detection Dataset
+  url: https://doi.org/10.5281/zenodo.10009966
+  image: img/portfolio/sainfoin_seeds_thumb.jpg
+
+- name: Sainfoin Fruit Processing Faster R-CNN Weights
+  category: Zenodo · Model Weights
+  url: https://doi.org/10.5281/zenodo.8387983
+  image: img/portfolio/sainfoin1.jpg

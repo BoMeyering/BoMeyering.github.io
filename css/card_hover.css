@@ -5,3 +5,14 @@
 .logo:hover{
     transform: scale(1.1);
 }
+
+/* Experience timeline */
+.experience-item {
+    border-left: 3px solid rgba(255, 255, 255, 0.4);
+    padding: 0 0 10px 20px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+.experience-item h3 { margin: 0 0 5px; font-size: 20px; }
+.experience-org { font-weight: 400; opacity: 0.8; }
+.experience-meta { font-size: 13px; text-transform: uppercase; letter-spacing: 1px; opacity: 0.7; margin-bottom: 8px; }
